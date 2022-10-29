@@ -1,10 +1,12 @@
-## 🎮 Aprendendo a arte da programação 🎲
+<div align="center" style="font-size:80px">
+<h1>🎮 Aprendendo a arte da programação 🎲</h1>
+</div>
 <div align="center">
   <a href="https://github.com/kenjimiura89">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kenjimiura89&show_icons=true&theme=synthwave&include_all_commits=true&title_color=purple&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimiura89&layout=compact&&title_color=pink&theme=synthwave"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Kenji-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kenji-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kenji-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
@@ -21,7 +23,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/kenji.miuraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-483D8B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulokmiura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-483D8B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-miura-7b12a9122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-483D8B?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
