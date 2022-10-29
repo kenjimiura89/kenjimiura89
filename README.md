@@ -1,8 +1,8 @@
 ## 🎮 Aprendendo a arte da programação 🎲
 <div align="center">
   <a href="https://github.com/kenjimiura89">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenjimiura89&show_icons=true&theme=synthwave&include_all_commits=true&title_color=purple&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimiura89&layout=compact&&title_color=pink&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kenjimiura89&show_icons=true&theme=synthwave&include_all_commits=true&title_color=purple&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimiura89&layout=compact&&title_color=pink&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenji-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
